@@ -1,0 +1,16 @@
+D:\AndroidStudioProjects\university_schedule_backend\src\main\java\kg\edu\university\schedule\auth\AuthController.java
+D:\AndroidStudioProjects\university_schedule_backend\src\main\java\kg\edu\university\schedule\auth\AuthService.java
+D:\AndroidStudioProjects\university_schedule_backend\src\main\java\kg\edu\university\schedule\auth\LoginRequest.java
+D:\AndroidStudioProjects\university_schedule_backend\src\main\java\kg\edu\university\schedule\auth\UserEntity.java
+D:\AndroidStudioProjects\university_schedule_backend\src\main\java\kg\edu\university\schedule\auth\UserRepository.java
+D:\AndroidStudioProjects\university_schedule_backend\src\main\java\kg\edu\university\schedule\auth\UserResponse.java
+D:\AndroidStudioProjects\university_schedule_backend\src\main\java\kg\edu\university\schedule\auth\UserRole.java
+D:\AndroidStudioProjects\university_schedule_backend\src\main\java\kg\edu\university\schedule\config\CorsConfig.java
+D:\AndroidStudioProjects\university_schedule_backend\src\main\java\kg\edu\university\schedule\config\DatabaseSeeder.java
+D:\AndroidStudioProjects\university_schedule_backend\src\main\java\kg\edu\university\schedule\schedule\Lesson.java
+D:\AndroidStudioProjects\university_schedule_backend\src\main\java\kg\edu\university\schedule\schedule\LessonEntity.java
+D:\AndroidStudioProjects\university_schedule_backend\src\main\java\kg\edu\university\schedule\schedule\LessonRepository.java
+D:\AndroidStudioProjects\university_schedule_backend\src\main\java\kg\edu\university\schedule\schedule\LessonRequest.java
+D:\AndroidStudioProjects\university_schedule_backend\src\main\java\kg\edu\university\schedule\schedule\ScheduleController.java
+D:\AndroidStudioProjects\university_schedule_backend\src\main\java\kg\edu\university\schedule\schedule\ScheduleService.java
+D:\AndroidStudioProjects\university_schedule_backend\src\main\java\kg\edu\university\schedule\UniversityScheduleApplication.java
